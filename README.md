@@ -1,8 +1,7 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> One paragraph statement about the project.
+> This project is about Microverse.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,7 +9,7 @@ Additional description about the project and its features.
 
 ## Built With
 
--html
+- html
 - css
 
 
@@ -18,11 +17,11 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**I just created the project from scratch, starting from initilizing the index page with the header structure, then I've choosed the Styling , like the background and the clolors.**
 
 
-To get a local copy up and running follow these simple example steps.
+
+
 
 ### Prerequisites
 
@@ -40,10 +39,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Aladdin Alsalem**
+👤 **Aladdin**
 
 - GitHub: [@githubhandle](https://github.com/AlaaAlsalem)
-
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aladdin-alsalem-5a68ba1a0/)
 
 
 ## 🤝 Contributing
@@ -64,3 +63,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
