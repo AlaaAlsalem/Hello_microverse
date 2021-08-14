@@ -6,8 +6,8 @@
 
 ## Built With
 
-- html
-- css
+- HTML
+- CSS
 
 
 
