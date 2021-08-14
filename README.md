@@ -14,24 +14,11 @@
 
 ## Getting Started
 
-**I just created the project from scratch, starting from initilizing the index page with the header structure, then I've choosed the Styling , like the background and the clolors.**
-
-
-
-
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+**this is an example how you might get you r project ready on local machin
+open terminal and run the folwing command:
+```git clone https://github.com/AlaaAlsalem/Hello_microverse.git```
+```cd Hello_microverse```
+then open ```index.html``` in your local browser
 
 
 ## Authors
